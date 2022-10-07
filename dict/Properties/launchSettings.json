@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "dict": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
